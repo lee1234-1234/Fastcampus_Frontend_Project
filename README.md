@@ -12,4 +12,3 @@
 *프론트엔드 기술을 활용한 커스텀 명함 UI 레이아웃 구현*
 
 ---
-<img width="578" height="716" alt="명함만들기_결과물" src="https://github.com/user-attachments/assets/1d8844bb-20d2-49bf-8061-4c6fc5f6c950" />
